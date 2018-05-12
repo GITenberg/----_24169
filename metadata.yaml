@@ -1,0 +1,36 @@
+_repo: '----_24169'
+_version: 0.1.0
+alternative_title: Li Taibai ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Li, Bai
+    aliases:
+    - 李白
+    - Rihaku
+    - Li, Po
+    birthdate: 701
+    deathdate: 762
+    gutenberg_agent_id: '26288'
+    url: http://www.gutenberg.org/2009/agents/26288
+    wikipedia: http://en.wikipedia.org/wiki/Li_Po
+  editor:
+    agent_name: Xu, Ren Tu
+    gutenberg_agent_id: '26211'
+    url: http://www.gutenberg.org/2009/agents/26211
+description: ''
+gutenberg_issued: '2008-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24169'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese poetry -- Tang dynasty, 618-907'
+- !lcc 'PL'
+title: 李太白集
+url: http://www.gutenberg.org/ebooks/24169
